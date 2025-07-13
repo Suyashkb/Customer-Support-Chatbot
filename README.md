@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. Download and place the model files ###
-Download the model.zip file and place it in the same directory as the chatbot 
+Download the model files from the kaggle models page mentioned above, and rename it as .model/ and place it in the same directory as the chatbot
 
 ### 4. Run the chatbot locally
 `streamlit run app.py`
