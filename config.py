@@ -1,0 +1,2 @@
+MODEL_PATH="./model"
+MAX_LENGTH=100
